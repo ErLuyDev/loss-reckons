@@ -698,3 +698,32 @@ h1,h2,h3{
     height: 2px;
 }
 
+/* NOSOTROS */
+
+.PorqueElegirnos{
+    background-image: url(recursos/backgraund.jpg);
+    padding: 35px;
+    text-align: center;
+    background-size: cover;
+}
+
+.PorqueElegirnos h2{
+    color: #143dc4;
+    margin-bottom: 250px;
+    font-family: "Playfair Display", serif;
+    font-size: 70px;
+
+}
+
+.icons{
+    display: flex;
+    color: #000000;
+    font-size: 35px;
+}
+
+.icons p {
+    font-family: "Playfair Display", serif;
+    font-weight: bold;
+
+
+}
